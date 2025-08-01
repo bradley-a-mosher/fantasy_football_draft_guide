@@ -10,6 +10,26 @@ from views.team_view import show_team_view
 from views.coach_view import show_coach_view
 from views.player_view import show_player_view
 
+GA_ID = st.secrets["GA_ID"]
+
+def add_google_analytics(ga_id):
+    st.markdown(
+        f"""
+        <script async src="https://www.googletagmanager.com/gtag/js?id={ga_id}"></script>
+        <script>
+          window.dataLayer = window.dataLayer || [];
+          function gtag(){{dataLayer.push(arguments);}}
+          gtag('js', new Date());
+          gtag('config', '{ga_id}');
+        </script>
+        """,
+        unsafe_allow_html=True
+    )
+
+# Call this once at the start of your app
+add_google_analytics(GA_ID)
+
+
 # ----------------------
 # Initialize Session State
 # ----------------------
