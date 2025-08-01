@@ -1,0 +1,21 @@
+# OS-specific
+.DS_Store
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+env/
+venv/
+
+# IDE settings
+.vscode/
+.idea/
+
+# Streamlit cache
+.streamlit/
+
+# Logs
+*.log

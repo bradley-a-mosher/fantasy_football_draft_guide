@@ -1,0 +1,736 @@
+Season,Team,Team Abbr,Team ID,Coach Type,Coach,Coached From,Coached To,Notes,Playing Calling Duties
+2015,Washington Redskins,WAS,32,Head Coach,Jay Gruden,1,17,,No
+2015,Washington Redskins,WAS,32,Offensive Coordinator,Sean McVay,1,17,,
+2015,Dallas Cowboys,DAL,9,Head Coach,Jason Garrett,1,17,,No
+2015,Dallas Cowboys,DAL,9,Offensive Coordinator,Scott Linehan,1,17,,
+2015,Philadelphia Eagles,PHI,26,Head Coach,Chip Kelly,1,16,Fired on December 29th,No
+2015,Philadelphia Eagles,PHI,26,Offensive Coordinator,Pat Shurmur,1,17,,
+2015,Philadelphia Eagles,PHI,26,Interim Head Coach,Pat Shurmur,17,17,Promoted on December 29th,
+2015,New York Giants,NYG,24,Head Coach,Tom Coughlin,1,17,,No
+2015,New York Giants,NYG,24,Offensive Coordinator,Ben McAdoo,1,17,,
+2016,Washington Redskins,WAS,32,Head Coach,Jay Gruden,1,17,,No
+2016,Washington Redskins,WAS,32,Offensive Coordinator,Sean McVay,1,17,,
+2016,Dallas Cowboys,DAL,9,Head Coach,Jason Garrett,1,17,,No
+2016,Dallas Cowboys,DAL,9,Offensive Coordinator,Scott Linehan,1,17,,
+2016,Philadelphia Eagles,PHI,26,Head Coach,Doug Pederson,1,17,,No
+2016,Philadelphia Eagles,PHI,26,Offensive Coordinator,Frank Reich,1,17,,
+2016,New York Giants,NYG,24,Head Coach,Ben McAdoo,1,17,,No
+2016,New York Giants,NYG,24,Offensive Coordinator,Mike Sullivan,1,17,,
+2017,Washington Redskins,WAS,32,Head Coach,Jay Gruden,1,17,,No
+2017,Washington Redskins,WAS,32,Offensive Coordinator,Matt Cavanaugh,1,17,,
+2017,Dallas Cowboys,DAL,9,Head Coach,Jason Garrett,1,17,,No
+2017,Dallas Cowboys,DAL,9,Offensive Coordinator,Scott Linehan,1,17,,
+2017,Philadelphia Eagles,PHI,26,Head Coach,Doug Pederson,1,17,,No
+2017,Philadelphia Eagles,PHI,26,Offensive Coordinator,Frank Reich,1,17,,
+2017,New York Giants,NYG,24,Head Coach,Ben McAdoo,1,13,Fired on December 4th,No
+2017,New York Giants,NYG,24,Interim Head Coach,Steve Spagnuolo,14,17,Promoted on December 4th,
+2017,New York Giants,NYG,24,Offensive Coordinator,Mike Sullivan,1,17,,
+2018,Washington Redskins,WAS,32,Head Coach,Jay Gruden,1,17,,No
+2018,Washington Redskins,WAS,32,Offensive Coordinator,Matt Cavanaugh,1,17,,
+2018,Dallas Cowboys,DAL,9,Head Coach,Jason Garrett,1,17,,No
+2018,Dallas Cowboys,DAL,9,Offensive Coordinator,Scott Linehan,1,17,,
+2018,Philadelphia Eagles,PHI,26,Head Coach,Doug Pederson,1,17,,No
+2018,Philadelphia Eagles,PHI,26,Offensive Coordinator,Mike Groh,1,17,,
+2018,New York Giants,NYG,24,Head Coach,Pat Shurmur,1,17,,No
+2018,New York Giants,NYG,24,Offensive Coordinator,Mike Shula,1,17,,
+2019,Washington Redskins,WAS,32,Head Coach,Jay Gruden,1,5,Fired on October 7th,No
+2019,Washington Redskins,WAS,32,Interim Head Coach,Bill Callahan,6,17,Promoted on October 7th,
+2019,Washington Redskins,WAS,32,Offensive Coordinator,Kevin O'Connell,1,17,,
+2019,Dallas Cowboys,DAL,9,Head Coach,Jason Garrett,1,17,,No
+2019,Dallas Cowboys,DAL,9,Offensive Coordinator,Kellen Moore,1,17,,
+2019,Philadelphia Eagles,PHI,26,Head Coach,Doug Pederson,1,17,,No
+2019,Philadelphia Eagles,PHI,26,Offensive Coordinator,Mike Groh,1,17,,
+2019,New York Giants,NYG,24,Head Coach,Pat Shurmur,1,17,,No
+2019,New York Giants,NYG,24,Offensive Coordinator,Mike Shula,1,17,,
+2020,Washington Football Team,WAS,32,Head Coach,Ron Rivera,1,17,,No
+2020,Washington Football Team,WAS,32,Offensive Coordinator,Scott Turner,1,17,,
+2020,Dallas Cowboys,DAL,9,Head Coach,Mike McCarthy,1,17,,No
+2020,Dallas Cowboys,DAL,9,Offensive Coordinator,Kellen Moore,1,17,,
+2020,Philadelphia Eagles,PHI,26,Head Coach,Doug Pederson,1,17,Acted as OC,Yes
+2020,New York Giants,NYG,24,Head Coach,Joe Judge,1,17,,No
+2020,New York Giants,NYG,24,Offensive Coordinator,Jason Garrett,1,17,,
+2021,Washington Football Team,WAS,32,Head Coach,Ron Rivera,1,18,,No
+2021,Washington Football Team,WAS,32,Offensive Coordinator,Scott Turner,1,18,,
+2021,Dallas Cowboys,DAL,9,Head Coach,Mike McCarthy,1,18,,No
+2021,Dallas Cowboys,DAL,9,Offensive Coordinator,Kellen Moore,1,18,,
+2021,Philadelphia Eagles,PHI,26,Head Coach,Nick Sirianni,1,18,,No
+2021,Philadelphia Eagles,PHI,26,Offensive Coordinator,Shane Steichen,1,18,,
+2021,New York Giants,NYG,24,Head Coach,Joe Judge,1,18,,No
+2021,New York Giants,NYG,24,Offensive Coordinator,Jason Garrett,1,11,Fired on November 23rd,
+2021,New York Giants,NYG,24,Interim Offensive Coordinator,Freddie Kitchens,12,18,Promoted on November 23rd,
+2022,Washington Commanders,WAS,32,Head Coach,Ron Rivera,1,18,,No
+2022,Washington Commanders,WAS,32,Offensive Coordinator,Scott Turner,1,18,,
+2022,Dallas Cowboys,DAL,9,Head Coach,Mike McCarthy,1,18,,No
+2022,Dallas Cowboys,DAL,9,Offensive Coordinator,Kellen Moore,1,18,,
+2022,Philadelphia Eagles,PHI,26,Head Coach,Nick Sirianni,1,18,,No
+2022,Philadelphia Eagles,PHI,26,Offensive Coordinator,Shane Steichen,1,18,,
+2022,New York Giants,NYG,24,Head Coach,Brian Daboll,1,18,,No
+2022,New York Giants,NYG,24,Offensive Coordinator,Mike Kafka,1,18,,
+2023,Washington Commanders,WAS,32,Head Coach,Ron Rivera,1,18,,No
+2023,Washington Commanders,WAS,32,Offensive Coordinator,Eric Bieniemy,1,18,,
+2023,Dallas Cowboys,DAL,9,Head Coach,Mike McCarthy,1,18,,No
+2023,Dallas Cowboys,DAL,9,Offensive Coordinator,Brian Schottenheimer,1,18,,
+2023,Philadelphia Eagles,PHI,26,Head Coach,Nick Sirianni,1,18,,No
+2023,Philadelphia Eagles,PHI,26,Offensive Coordinator,Brian Johnson,1,18,,
+2023,New York Giants,NYG,24,Head Coach,Brian Daboll,1,18,,No
+2023,New York Giants,NYG,24,Offensive Coordinator,Mike Kafka,1,18,,
+2024,Washington Commanders,WAS,32,Head Coach,Dan Quinn,1,18,,No
+2024,Washington Commanders,WAS,32,Offensive Coordinator,Kliff Kingsbury,1,18,,
+2024,Dallas Cowboys,DAL,9,Head Coach,Mike McCarthy,1,18,,No
+2024,Dallas Cowboys,DAL,9,Offensive Coordinator,Brian Schottenheimer,1,18,,
+2024,Philadelphia Eagles,PHI,26,Head Coach,Nick Sirianni,1,18,,No
+2024,Philadelphia Eagles,PHI,26,Offensive Coordinator,Kellen Moore,1,18,,
+2024,New York Giants,NYG,24,Head Coach,Brian Daboll,1,18,,No
+2024,New York Giants,NYG,24,Offensive Coordinator,Mike Kafka,1,18,,
+2025,Washington Commanders,WAS,32,Head Coach,Dan Quinn,null,null,,No
+2025,Washington Commanders,WAS,32,Offensive Coordinator,Kliff Kingsbury,null,null,,
+2025,Dallas Cowboys,DAL,9,Head Coach,Brian Schottenheimer,null,null,,No
+2025,Dallas Cowboys,DAL,9,Offensive Coordinator,Klayton Adams,null,null,,
+2025,Philadelphia Eagles,PHI,26,Head Coach,Nick Sirianni,null,null,,No
+2025,Philadelphia Eagles,PHI,26,Offensive Coordinator,Kevin Patullo,null,null,,
+2025,New York Giants,NYG,24,Head Coach,Brian Daboll,null,null,,No
+2025,New York Giants,NYG,24,Offensive Coordinator,Mike Kafka,null,null,,
+2015,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,17,,No
+2015,Minnesota Vikings,MIN,21,Offensive Coordinator,Norv Turner,1,17,,
+2015,Green Bay Packers,GB,12,Head Coach,Mike McCarthy,1,17,,No
+2015,Green Bay Packers,GB,12,Offensive Coordinator,Edgar Bennett,1,17,,
+2015,Detroit Lions,DET,11,Head Coach,Jim Caldwell,1,17,,No
+2015,Detroit Lions,DET,11,Offensive Coordinator,Joe Lombardi,1,7,Fired on October 26th,
+2015,Detroit Lions,DET,11,Interim Offensive Coordinator,Jim Bob Cooter,8,17,Promoted on October 26th,
+2015,Chicago Bears,CHI,6,Head Coach,John Fox,1,17,,No
+2015,Chicago Bears,CHI,6,Offensive Coordinator,Adam Gase,1,17,,
+2016,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,17,,No
+2016,Minnesota Vikings,MIN,21,Offensive Coordinator,Norv Turner,1,8,Resigned on November 2nd,
+2016,Minnesota Vikings,MIN,21,Offensive Coordinator,Pat Shurmur,9,17,Promoted on November 2nd,
+2016,Green Bay Packers,GB,12,Head Coach,Mike McCarthy,1,17,,No
+2016,Green Bay Packers,GB,12,Offensive Coordinator,Edgar Bennett,1,17,,
+2016,Detroit Lions,DET,11,Head Coach,Jim Caldwell,1,17,,No
+2016,Detroit Lions,DET,11,Offensive Coordinator,Jim Bob Cooter,1,17,,
+2016,Chicago Bears,CHI,6,Head Coach,John Fox,1,17,,No
+2016,Chicago Bears,CHI,6,Offensive Coordinator,Dowell Loggains,1,17,,
+2017,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,17,,No
+2017,Minnesota Vikings,MIN,21,Offensive Coordinator,Pat Shurmur,1,17,,
+2017,Green Bay Packers,GB,12,Head Coach,Mike McCarthy,1,17,,No
+2017,Green Bay Packers,GB,12,Offensive Coordinator,Edgar Bennett,1,17,,
+2017,Detroit Lions,DET,11,Head Coach,Jim Caldwell,1,17,,No
+2017,Detroit Lions,DET,11,Offensive Coordinator,Jim Bob Cooter,1,17,,
+2017,Chicago Bears,CHI,6,Head Coach,John Fox,1,17,,No
+2017,Chicago Bears,CHI,6,Offensive Coordinator,Dowell Loggains,1,17,,
+2018,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,17,,No
+2018,Minnesota Vikings,MIN,21,Offensive Coordinator,John DeFilippo,1,14,Fired on December 11th,
+2018,Minnesota Vikings,MIN,21,Interim Offensive Coordinator,Kevin Stefanski,15,17,Promoted on December 11th,
+2018,Green Bay Packers,GB,12,Head Coach,Mike McCarthy,1,13,Fired on December 2nd,No
+2018,Green Bay Packers,GB,12,Interim Head Coach,Joe Philbin,14,17,Promoted on December 2nd,
+2018,Green Bay Packers,GB,12,Offensive Coordinator,Joe Philbin,1,17,,
+2018,Detroit Lions,DET,11,Head Coach,Matt Patricia,1,17,,No
+2018,Detroit Lions,DET,11,Offensive Coordinator,Jim Bob Cooter,1,17,,
+2018,Chicago Bears,CHI,6,Head Coach,Matt Nagy,1,17,,No
+2018,Chicago Bears,CHI,6,Offensive Coordinator,Mark Helfrich,1,17,,
+2019,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,17,,No
+2019,Minnesota Vikings,MIN,21,Offensive Coordinator,Kevin Stefanski,1,17,,
+2019,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,1,17,,No
+2019,Green Bay Packers,GB,12,Offensive Coordinator,Nathaniel Hackett,1,17,,
+2019,Detroit Lions,DET,11,Head Coach,Matt Patricia,1,17,,No
+2019,Detroit Lions,DET,11,Offensive Coordinator,Darrell Bevell,1,17,,
+2019,Chicago Bears,CHI,6,Head Coach,Matt Nagy,1,17,,No
+2019,Chicago Bears,CHI,6,Offensive Coordinator,Mark Helfrich,1,17,,
+2020,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,17,,No
+2020,Minnesota Vikings,MIN,21,Offensive Coordinator,Gary Kubiak,1,17,,
+2020,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,1,17,,No
+2020,Green Bay Packers,GB,12,Offensive Coordinator,Nathaniel Hackett,1,17,,
+2020,Detroit Lions,DET,11,Head Coach,Matt Patricia,1,12,Fired on November 28th,No
+2020,Detroit Lions,DET,11,Interim Head Coach,Darrell Bevell,13,17,Promoted on November 28th,
+2020,Detroit Lions,DET,11,Offensive Coordinator,Darrell Bevell,1,17,,
+2020,Chicago Bears,CHI,6,Head Coach,Matt Nagy,1,17,,No
+2020,Chicago Bears,CHI,6,Offensive Coordinator,Bill Lazor,1,17,,
+2021,Minnesota Vikings,MIN,21,Head Coach,Mike Zimmer,1,18,,No
+2021,Minnesota Vikings,MIN,21,Offensive Coordinator,Klint Kubiak,1,18,,
+2021,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,1,18,,No
+2021,Green Bay Packers,GB,12,Offensive Coordinator,Nathaniel Hackett,1,18,,
+2021,Detroit Lions,DET,11,Head Coach,Dan Campbell,1,18,,No
+2021,Detroit Lions,DET,11,Offensive Coordinator,Anthony Lynn,1,18,,
+2021,Chicago Bears,CHI,6,Head Coach,Matt Nagy,1,18,,No
+2021,Chicago Bears,CHI,6,Offensive Coordinator,Bill Lazor,1,18,,
+2022,Minnesota Vikings,MIN,21,Head Coach,Kevin O'Connell,1,18,,No
+2022,Minnesota Vikings,MIN,21,Offensive Coordinator,Wes Phillips,1,18,,
+2022,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,1,18,,No
+2022,Green Bay Packers,GB,12,Offensive Coordinator,Adam Stenavich,1,18,,
+2022,Detroit Lions,DET,11,Head Coach,Dan Campbell,1,18,,No
+2022,Detroit Lions,DET,11,Offensive Coordinator,Ben Johnson,1,18,,
+2022,Chicago Bears,CHI,6,Head Coach,Matt Eberflus,1,18,,No
+2022,Chicago Bears,CHI,6,Offensive Coordinator,Luke Getsy,1,18,,
+2023,Minnesota Vikings,MIN,21,Head Coach,Kevin O'Connell,1,18,,No
+2023,Minnesota Vikings,MIN,21,Offensive Coordinator,Wes Phillips,1,18,,
+2023,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,1,18,,No
+2023,Green Bay Packers,GB,12,Offensive Coordinator,Adam Stenavich,1,18,,
+2023,Detroit Lions,DET,11,Head Coach,Dan Campbell,1,18,,No
+2023,Detroit Lions,DET,11,Offensive Coordinator,Ben Johnson,1,18,,
+2023,Chicago Bears,CHI,6,Head Coach,Matt Eberflus,1,18,,No
+2023,Chicago Bears,CHI,6,Offensive Coordinator,Luke Getsy,1,18,,
+2024,Minnesota Vikings,MIN,21,Head Coach,Kevin O'Connell,1,18,,No
+2024,Minnesota Vikings,MIN,21,Offensive Coordinator,Wes Phillips,1,18,,
+2024,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,1,18,,No
+2024,Green Bay Packers,GB,12,Offensive Coordinator,Adam Stenavich,1,18,,
+2024,Detroit Lions,DET,11,Head Coach,Dan Campbell,1,18,,No
+2024,Detroit Lions,DET,11,Offensive Coordinator,Ben Johnson,1,18,,
+2024,Chicago Bears,CHI,6,Head Coach,Matt Eberflus,1,13,Fired on November 29th,No
+2024,Chicago Bears,CHI,6,Interim Head Coach,Thomas Brown,14,18,Promoted on November 29th,
+2024,Chicago Bears,CHI,6,Interim Offensive Coordinator,Thomas Brown,11,13,Promoted on November 10th,
+2024,Chicago Bears,CHI,6,Offensive Coordinator,Shane Waldron,1,10,Fired on November 10th,
+2024,Chicago Bears,CHI,6,Interim Offensive Coordinator,Chris Beatty,14,18,Promoted on December 2nd,
+2025,Minnesota Vikings,MIN,21,Head Coach,Kevin O'Connell,null,null,,No
+2025,Minnesota Vikings,MIN,21,Offensive Coordinator,Wes Phillips,null,null,,
+2025,Green Bay Packers,GB,12,Head Coach,Matt LaFleur,null,null,,No
+2025,Green Bay Packers,GB,12,Offensive Coordinator,Adam Stenavich,null,null,,
+2025,Detroit Lions,DET,11,Head Coach,Dan Campbell,null,null,,No
+2025,Detroit Lions,DET,11,Offensive Coordinator,John Morton,null,null,,
+2025,Chicago Bears,CHI,6,Head Coach,Ben Johnson,null,null,,No
+2025,Chicago Bears,CHI,6,Offensive Coordinator,Declan Doyle,null,null,,
+2015,Carolina Panthers,CAR,5,Head Coach,Ron Rivera,1,17,,No
+2015,Carolina Panthers,CAR,5,Offensive Coordinator,Mike Shula,1,17,,
+2015,Tampa Bay Buccaneers,TB,30,Head Coach,Lovie Smith,1,17,,No
+2015,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Dirk Koetter,1,17,,
+2015,Atlanta Falcons,ATL,2,Head Coach,Dan Quinn,1,17,,No
+2015,Atlanta Falcons,ATL,2,Offensive Coordinator,Kyle Shanahan,1,17,,
+2015,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,17,,No
+2015,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,17,,
+2016,Carolina Panthers,CAR,5,Head Coach,Ron Rivera,1,17,,No
+2016,Carolina Panthers,CAR,5,Offensive Coordinator,Mike Shula,1,17,,
+2016,Tampa Bay Buccaneers,TB,30,Head Coach,Dirk Koetter,1,17,,No
+2016,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Todd Monken,1,17,,
+2016,Atlanta Falcons,ATL,2,Head Coach,Dan Quinn,1,17,,No
+2016,Atlanta Falcons,ATL,2,Offensive Coordinator,Kyle Shanahan,1,17,,
+2016,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,17,,No
+2016,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,17,,
+2017,Carolina Panthers,CAR,5,Head Coach,Ron Rivera,1,17,,No
+2017,Carolina Panthers,CAR,5,Offensive Coordinator,Mike Shula,1,17,,
+2017,Tampa Bay Buccaneers,TB,30,Head Coach,Dirk Koetter,1,17,,No
+2017,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Todd Monken,1,17,,
+2017,Atlanta Falcons,ATL,2,Head Coach,Dan Quinn,1,17,,No
+2017,Atlanta Falcons,ATL,2,Offensive Coordinator,Steve Sarkisian,1,17,,
+2017,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,17,,No
+2017,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,17,,
+2018,Carolina Panthers,CAR,5,Head Coach,Ron Rivera,1,17,,No
+2018,Carolina Panthers,CAR,5,Offensive Coordinator,Norv Turner,1,17,,
+2018,Tampa Bay Buccaneers,TB,30,Head Coach,Dirk Koetter,1,17,,No
+2018,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Todd Monken,1,17,,
+2018,Atlanta Falcons,ATL,2,Head Coach,Dan Quinn,1,17,,No
+2018,Atlanta Falcons,ATL,2,Offensive Coordinator,Steve Sarkisian,1,17,,
+2018,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,17,,No
+2018,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,17,,
+2019,Carolina Panthers,CAR,5,Head Coach,Ron Rivera,1,13,Fired on December 3rd,No
+2019,Carolina Panthers,CAR,5,Offensive Coordinator,Norv Turner,1,13,Demoted on December 3rd,
+2019,Carolina Panthers,CAR,5,Interim Offensive Coordinator,Scott Turner,14,17,Promoted on December 3rd,
+2019,Carolina Panthers,CAR,5,Interim Head Coach,Perry Fewell,14,17,Promoted on December 3rd,
+2019,Tampa Bay Buccaneers,TB,30,Head Coach,Bruce Arians,1,17,,No
+2019,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Byron Leftwich,1,17,,
+2019,Atlanta Falcons,ATL,2,Head Coach,Dan Quinn,1,17,,No
+2019,Atlanta Falcons,ATL,2,Offensive Coordinator,Dirk Koetter,1,17,,
+2019,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,17,,No
+2019,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,17,,
+2020,Carolina Panthers,CAR,5,Head Coach,Matt Rhule,1,17,,No
+2020,Carolina Panthers,CAR,5,Offensive Coordinator,Joe Brady,1,17,,
+2020,Tampa Bay Buccaneers,TB,30,Head Coach,Bruce Arians,1,17,,No
+2020,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Byron Leftwich,1,17,,
+2020,Atlanta Falcons,ATL,2,Head Coach,Dan Quinn,1,17,,No
+2020,Atlanta Falcons,ATL,2,Offensive Coordinator,Dirk Koetter,1,17,,
+2020,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,17,,No
+2020,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,17,,
+2021,Carolina Panthers,CAR,5,Head Coach,Matt Rhule,1,18,,No
+2021,Carolina Panthers,CAR,5,Offensive Coordinator,Joe Brady,1,12,Fired on December 5th,
+2021,Carolina Panthers,CAR,5,Interim Offensive Coordinator,Jeff Nixon,13,18,Promoted on December 5th,
+2021,Tampa Bay Buccaneers,TB,30,Head Coach,Bruce Arians,1,18,,No
+2021,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Byron Leftwich,1,18,,
+2021,Atlanta Falcons,ATL,2,Head Coach,Arthur Smith,1,18,,No
+2021,Atlanta Falcons,ATL,2,Offensive Coordinator,Dave Ragone,1,18,,
+2021,New Orleans Saints,NO,23,Head Coach,Sean Payton,1,18,,No
+2021,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,18,,
+2022,Carolina Panthers,CAR,5,Head Coach,Matt Rhule,1,4,Fired on October 10th,No
+2022,Carolina Panthers,CAR,5,Interim Head Coach,Steve Wilks,5,18,Promoted on October 10th,
+2022,Carolina Panthers,CAR,5,Offensive Coordinator,Ben McAdoo,1,18,,
+2022,Tampa Bay Buccaneers,TB,30,Head Coach,Todd Bowles,1,18,,No
+2022,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Byron Leftwich,1,18,,
+2022,Atlanta Falcons,ATL,2,Head Coach,Arthur Smith,1,18,,No
+2022,Atlanta Falcons,ATL,2,Offensive Coordinator,Dave Ragone,1,18,,
+2022,New Orleans Saints,NO,23,Head Coach,Dennis Allen,1,18,,No
+2022,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,18,,
+2023,Carolina Panthers,CAR,5,Head Coach,Frank Reich,1,12,Fired on November 27th,No
+2023,Carolina Panthers,CAR,5,Interim Head Coach,Chris Tabor,13,18,Promoted on November 27th,
+2023,Carolina Panthers,CAR,5,Offensive Coordinator,Thomas Brown,1,18,,
+2023,Tampa Bay Buccaneers,TB,30,Head Coach,Todd Bowles,1,18,,No
+2023,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Dave Canales,1,18,,
+2023,Atlanta Falcons,ATL,2,Head Coach,Arthur Smith,1,18,,No
+2023,Atlanta Falcons,ATL,2,Offensive Coordinator,Dave Ragone,1,18,,
+2023,New Orleans Saints,NO,23,Head Coach,Dennis Allen,1,18,,No
+2023,New Orleans Saints,NO,23,Offensive Coordinator,Pete Carmichael,1,18,,
+2024,Carolina Panthers,CAR,5,Head Coach,Dave Canales,1,18,,No
+2024,Carolina Panthers,CAR,5,Offensive Coordinator,Brad Idzik,1,18,,
+2024,Tampa Bay Buccaneers,TB,30,Head Coach,Todd Bowles,1,18,,No
+2024,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Liam Coen,1,18,,
+2024,Atlanta Falcons,ATL,2,Head Coach,Raheem Morris,1,18,,No
+2024,Atlanta Falcons,ATL,2,Offensive Coordinator,Zac Robinson,1,18,,
+2024,New Orleans Saints,NO,23,Head Coach,Dennis Allen,1,9,Fired on November 4th,No
+2024,New Orleans Saints,NO,23,Interim Head Coach,Darren Rizzi,10,18,Promoted on November 4th,
+2024,New Orleans Saints,NO,23,Offensive Coordinator,Klint Kubiak,1,18,,
+2025,Carolina Panthers,CAR,5,Head Coach,Dave Canales,null,null,,No
+2025,Carolina Panthers,CAR,5,Offensive Coordinator,Brad Idzik,null,null,,
+2025,Tampa Bay Buccaneers,TB,30,Head Coach,Todd Bowles,null,null,,No
+2025,Tampa Bay Buccaneers,TB,30,Offensive Coordinator,Josh Grizzard,null,null,,
+2025,Atlanta Falcons,ATL,2,Head Coach,Raheem Morris,null,null,,No
+2025,Atlanta Falcons,ATL,2,Offensive Coordinator,Zac Robinson,null,null,,
+2025,New Orleans Saints,NO,23,Head Coach,Kellen Moore,null,null,,No
+2025,New Orleans Saints,NO,23,Offensive Coordinator,Doug Nussmeier,null,null,,
+2015,St. Louis Rams,LAR,18,Head Coach,Jeff Fisher,1,17,,No
+2015,St. Louis Rams,LAR,18,Offensive Coordinator,Rob Boras,1,17,,
+2015,Arizona Cardinals,ARI,1,Head coach,Bruce Arians,1,17,,No
+2015,Arizona Cardinals,ARI,1,Offensive Coordinator,Harold Goodwin,1,17,,
+2015,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,17,,No
+2015,Seattle Seahawks,SEA,28,Offensive Coordinator,Darrell Bevell,1,17,,
+2015,San Francisco 49ers,SF,29,Head Coach,Jim Tomsula,1,17,,No
+2015,San Francisco 49ers,SF,29,Offensive Coordinator,Geep Chryst,1,17,,
+2016,Los Angeles Rams,LAR,18,Head Coach,Jeff Fisher,1,14,Fired on December 12th,No
+2016,Los Angeles Rams,LAR,18,Offensive Coordinator,Rob Boras,1,17,,
+2016,Los Angeles Rams,LAR,18,Interim Head Coach,John Fassel,15,17,Promoted on December 12th,
+2016,Arizona Cardinals,ARI,1,Head Coach,Bruce Arians,1,17,,No
+2016,Arizona Cardinals,ARI,1,Offensive Coordinator,Harold Goodwin,1,17,,
+2016,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,17,,No
+2016,Seattle Seahawks,SEA,28,Offensive Coordinator,Darrell Bevell,1,17,,
+2016,San Francisco 49ers,SF,29,Head Coach,Chip Kelly,1,17,,No
+2016,San Francisco 49ers,SF,29,Offensive Coordinator,Curtis Modkins,1,17,,
+2017,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,17,,No
+2017,Los Angeles Rams,LAR,18,Offensive Coordinator,Matt LaFleur,1,17,,
+2017,Arizona Cardinals,ARI,1,Head Coach,Bruce Arians,1,17,,No
+2017,Arizona Cardinals,ARI,1,Offensive Coordinator,Harold Goodwin,1,17,,
+2017,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,17,,No
+2017,Seattle Seahawks,SEA,28,Offensive Coordinator,Darrell Bevell,1,17,,
+2017,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,17,Acted as OC,Yes
+2018,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,17,Acted as OC,Yes
+2018,Arizona Cardinals,ARI,1,Head Coach,Steve Wilks,1,17,,No
+2018,Arizona Cardinals,ARI,1,Offensive Coordinator,Mike McCoy,1,7,Fired October 19th,
+2018,Arizona Cardinals,ARI,1,Interim Offensive Coordinator,Byron Leftwich,8,17,Promoted October 19th,
+2018,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,17,,No
+2018,Seattle Seahawks,SEA,28,Offensive Coordinator,Brian Schottenheimer,1,17,,
+2018,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,17,Acted as OC,Yes
+2019,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,17,Acted as OC,Yes
+2019,Arizona Cardinals,ARI,1,Head Coach,Kliff Kingsbury,1,17,Acted as OC,Yes
+2019,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,17,,No
+2019,Seattle Seahawks,SEA,28,Offensive Coordinator,Brian Schottenheimer,1,17,,
+2019,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,17,Acted as OC,Yes
+2020,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,17,,No
+2020,Los Angeles Rams,LAR,18,Offensive Coordinator,Kevin O'Connell,1,17,,
+2020,Arizona Cardinals,ARI,1,Head Coach,Kliff Kingsbury,1,17,Acted as OC,Yes
+2020,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,17,,No
+2020,Seattle Seahawks,SEA,28,Offensive Coordinator,Brian Schottenheimer,1,17,,
+2020,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,17,Acted as OC,Yes
+2021,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,18,,No
+2021,Los Angeles Rams,LAR,18,Offensive Coordinator,Kevin O'Connell,1,18,,
+2021,Arizona Cardinals,ARI,1,Head Coach,Kliff Kingsbury,1,18,Acted as OC,Yes
+2021,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,18,,No
+2021,Seattle Seahawks,SEA,28,Offensive Coordinator,Shane Waldron,1,18,,
+2021,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,18,,No
+2021,San Francisco 49ers,SF,29,Offensive Coordinator,Mike McDaniel,1,18,,
+2022,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,18,,No
+2022,Los Angeles Rams,LAR,18,Offensive Coordinator,Liam Coen,1,18,,
+2022,Arizona Cardinals,ARI,1,Head Coach,Kliff Kingsbury,1,18,Acted as OC,Yes
+2022,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,18,,No
+2022,Seattle Seahawks,SEA,28,Offensive Coordinator,Shane Waldron,1,18,,
+2022,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,18,Acted as OC,Yes
+2023,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,18,,No
+2023,Los Angeles Rams,LAR,18,Offensive Coordinator,Mike LaFleur,1,18,,
+2023,Arizona Cardinals,ARI,1,Head Coach,Jonathan Gannon,1,18,,No
+2023,Arizona Cardinals,ARI,1,Offensive Coordinator,Drew Petzing,1,18,,
+2023,Seattle Seahawks,SEA,28,Head Coach,Pete Carroll,1,18,,No
+2023,Seattle Seahawks,SEA,28,Offensive Coordinator,Shane Waldron,1,18,,
+2023,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,18,Acted as OC,Yes
+2024,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,1,18,,No
+2024,Los Angeles Rams,LAR,18,Offensive Coordinator,Mike LaFleur,1,18,,
+2024,Arizona Cardinals,ARI,1,Head Coach,Jonathan Gannon,1,18,,No
+2024,Arizona Cardinals,ARI,1,Offensive Coordinator,Drew Petzing,1,18,,
+2024,Seattle Seahawks,SEA,28,Head Coach,Mike Macdonald,1,18,,No
+2024,Seattle Seahawks,SEA,28,Offensive Coordinator,Ryan Grubb,1,18,,
+2024,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,1,18,Acted as OC,Yes
+2025,Los Angeles Rams,LAR,18,Head Coach,Sean McVay,null,null,,No
+2025,Los Angeles Rams,LAR,18,Offensive Coordinator,Mike LaFleur,null,null,,
+2025,Arizona Cardinals,ARI,1,Head Coach,Jonathan Gannon,null,null,,No
+2025,Arizona Cardinals,ARI,1,Offensive Coordinator,Drew Petzing,null,null,,
+2025,Seattle Seahawks,SEA,28,Head Coach,Mike Macdonald,null,null,,No
+2025,Seattle Seahawks,SEA,28,Offensive Coordinator,Klint Kubiak,null,null,,
+2025,San Francisco 49ers,SF,29,Head Coach,Kyle Shanahan,null,null,,No
+2025,San Francisco 49ers,SF,29,Offensive Coordinator,Klay Kubiak,null,null,,
+2015,New York Jets,NYJ,25,Head Coach,Todd Bowles,1,17,,No
+2015,New York Jets,NYJ,25,Offensive Coordinator,Chan Gailey,1,17,,
+2015,Miami Dolphins,MIA,20,Head Coach,Joe Philbin,1,4,Fired on October 5th,No
+2015,Miami Dolphins,MIA,20,Interim Head Coach,Dan Campbell,5,17,Promoted on October 5th,
+2015,Buffalo Bills,BUF,4,Head Coach,Rex Ryan,1,17,,No
+2015,New England Patriots,NE,22,Head Coach,Bill Belichick,1,17,,No
+2015,Miami Dolphins,MIA,20,Offensive Coordinator,Zac Taylor,1,17,,
+2015,Buffalo Bills,BUF,4,Offensive Coordinator,Greg Roman,1,17,,
+2015,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,17,,
+2016,New York Jets,NYJ,25,Offensive Coordinator,Chan Gailey,1,17,,
+2016,New York Jets,NYJ,25,Head Coach,Todd Bowles,1,17,,No
+2016,Miami Dolphins,MIA,20,Head Coach,Adam Gase,1,17,,No
+2016,Buffalo Bills,BUF,4,Interim Offensive Coordinator,Anthony Lynn,3,17,Promoted on September 16th,
+2016,Buffalo Bills,BUF,4,Head Coach,Rex Ryan,1,16,Fired on December 27th,No
+2016,Buffalo Bills,BUF,4,Offensive Coordinator,Greg Roman,1,2,Fired on September 15th,
+2016,Buffalo Bills,BUF,4,Interim Head Coach,Anthony Lynn,17,17,Promoted on December 27th,
+2016,New England Patriots,NE,22,Head Coach,Bill Belichick,1,17,,No
+2016,Miami Dolphins,MIA,20,Offensive Coordinator,Clyde Christensen,1,17,,
+2016,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,17,,
+2017,New York Jets,NYJ,25,Offensive Coordinator,John Morton,1,17,,
+2017,New York Jets,NYJ,25,Head Coach,Todd Bowles,1,17,,No
+2017,Miami Dolphins,MIA,20,Head Coach,Adam Gase,1,17,,No
+2017,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,17,,No
+2017,New England Patriots,NE,22,Head Coach,Bill Belichick,1,17,,No
+2017,Miami Dolphins,MIA,20,Offensive Coordinator,Clyde Christensen,1,17,,
+2017,Buffalo Bills,BUF,4,Offensive Coordinator,Rick Dennison,1,17,,
+2017,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,17,,
+2018,New York Jets,NYJ,25,Offensive Coordinator,Jeremy Bates,1,17,,
+2018,New York Jets,NYJ,25,Head Coach,Todd Bowles,1,17,,No
+2018,Miami Dolphins,MIA,20,Head Coach,Adam Gase,1,17,,No
+2018,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,17,,No
+2018,Miami Dolphins,MIA,20,Offensive Coordinator,Dowell Loggains,1,17,,
+2018,New England Patriots,NE,22,Head Coach,Bill Belichick,1,17,,No
+2018,Buffalo Bills,BUF,4,Offensive Coordinator,Brian Daboll,1,17,,
+2018,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,17,,
+2019,New York Jets,NYJ,25,Offensive Coordinator,Dowell Loggains,1,17,,
+2019,Miami Dolphins,MIA,20,Offensive Coordinator,Chad O'Shea,1,17,,
+2019,New York Jets,NYJ,25,Head Coach,Adam Gase,1,17,,No
+2019,Miami Dolphins,MIA,20,Head Coach,Brian Flores,1,17,,No
+2019,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,17,,No
+2019,New England Patriots,NE,22,Head Coach,Bill Belichick,1,17,,No
+2019,Buffalo Bills,BUF,4,Offensive Coordinator,Brian Daboll,1,17,,
+2019,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,17,,
+2020,New York Jets,NYJ,25,Offensive Coordinator,Dowell Loggains,1,17,,
+2020,Miami Dolphins,MIA,20,Offensive Coordinator,Chan Gailey,1,17,,
+2020,New York Jets,NYJ,25,Head Coach,Adam Gase,1,17,,No
+2020,Miami Dolphins,MIA,20,Head Coach,Brian Flores,1,17,,No
+2020,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,17,,No
+2020,New England Patriots,NE,22,Head Coach,Bill Belichick,1,17,,No
+2020,Buffalo Bills,BUF,4,Offensive Coordinator,Brian Daboll,1,17,,
+2020,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,17,,
+2021,New York Jets,NYJ,25,Offensive Coordinator,Mike LaFleur,1,18,,
+2021,Miami Dolphins,MIA,20,Offensive Coordinator,Eric Studesville,1,18,,
+2021,Miami Dolphins,MIA,20,Offensive Coordinator,George Godsey,1,18,,
+2021,New York Jets,NYJ,25,Head Coach,Robert Saleh,1,18,,No
+2021,Miami Dolphins,MIA,20,Head Coach,Brian Flores,1,18,,No
+2021,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,18,,No
+2021,New England Patriots,NE,22,Head Coach,Bill Belichick,1,18,,No
+2021,Buffalo Bills,BUF,4,Offensive Coordinator,Brian Daboll,1,18,,
+2021,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,1,18,,
+2022,New York Jets,NYJ,25,Offensive Coordinator,Mike LaFleur,1,18,,
+2022,Miami Dolphins,MIA,20,Offensive Coordinator,Frank Smith,1,18,,
+2022,New York Jets,NYJ,25,Head Coach,Robert Saleh,1,18,,No
+2022,Buffalo Bills,BUF,4,Offensive Coordinator,Ken Dorsey,1,18,,
+2022,Miami Dolphins,MIA,20,Head Coach,Mike McDaniel,1,18,,No
+2022,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,18,,No
+2022,New England Patriots,NE,22,Offensive Coordinator,Matt Patricia,1,18,,
+2022,New England Patriots,NE,22,Head Coach,Bill Belichick,1,18,,No
+2023,New York Jets,NYJ,25,Offensive Coordinator,Nathaniel Hackett,1,18,,
+2023,Miami Dolphins,MIA,20,Offensive Coordinator,Frank Smith,1,18,,
+2023,Buffalo Bills,BUF,4,Offensive Coordinator,Ken Dorsey,1,10,Fired on November 14th,
+2023,Buffalo Bills,BUF,4,Interim Offensive Coordinator,Joe Brady,11,18,Promoted on November 14th,
+2023,New York Jets,NYJ,25,Head Coach,Robert Saleh,1,18,,No
+2023,Miami Dolphins,MIA,20,Head Coach,Mike McDaniel,1,18,,No
+2023,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,18,,No
+2023,New England Patriots,NE,22,Head Coach,Bill Belichick,1,18,,No
+2023,New England Patriots,NE,22,Offensive Coordinator,Bill O'Brien,1,18,,
+2024,New York Jets,NYJ,25,Offensive Coordinator,Nathaniel Hackett,1,5,Demoted on October 10th,
+2024,New York Jets,NYJ,25,Interim Offensive Coordinator,Todd Downing,6,18,Promoted on October 10th,
+2024,Miami Dolphins,MIA,20,Offensive Coordinator,Frank Smith,1,18,,
+2024,Buffalo Bills,BUF,4,Offensive Coordinator,Joe Brady,1,18,,
+2024,New York Jets,NYJ,25,Head Coach,Robert Saleh,1,5,Fired on October 8th,No
+2024,New York Jets,NYJ,25,Interim Head Coach,Jeff Ulbrich,6,18,Promoted on October 8th,
+2024,Miami Dolphins,MIA,20,Head Coach,Mike McDaniel,1,18,,No
+2024,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,1,18,,No
+2024,New England Patriots,NE,22,Head Coach,Jerod Mayo,1,18,,No
+2024,New England Patriots,NE,22,Offensive Coordinator,Alex Van Pelt,1,18,,
+2025,New England Patriots,NE,22,Head Coach,Mike Vrabel,null,null,,No
+2025,New England Patriots,NE,22,Offensive Coordinator,Josh McDaniels,null,null,,
+2025,Miami Dolphins,MIA,20,Head Coach,Mike McDaniel,null,null,,No
+2025,Miami Dolphins,MIA,20,Offensive Coordinator,Frank Smith,null,null,,
+2025,Buffalo Bills,BUF,4,Head Coach,Sean McDermott,null,null,,No
+2025,Buffalo Bills,BUF,4,Offensive Coordinator,Joe Brady,null,null,,
+2025,New York Jets,NYJ,25,Head Coach,Aaron Glenn,null,null,,No
+2025,New York Jets,NYJ,25,Offensive Coordinator,Tanner Engstrand,null,null,,
+2015,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,17,,No
+2015,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Todd Haley,1,17,,
+2015,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,17,,No
+2015,Baltimore Ravens,BAL,3,Offensive Coordinator,Marc Trestman,1,17,,
+2015,Cleveland Browns,CLE,8,Head Coach,Mike Pettine,1,17,,No
+2015,Cleveland Browns,CLE,8,Offensive Coordinator,John DeFilippo,1,17,,
+2015,Cincinnati Bengals,CIN,7,Head Coach,Marvin Lewis,1,17,,No
+2015,Cincinnati Bengals,CIN,7,Offensive Coordinator,Hue Jackson,1,17,,
+2016,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,17,,No
+2016,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Todd Haley,1,17,,
+2016,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,17,,No
+2016,Baltimore Ravens,BAL,3,Offensive Coordinator,Marc Trestman,1,17,,
+2016,Cleveland Browns,CLE,8,Head Coach,Hue Jackson,1,17,Acted as OC,Yes
+2016,Cincinnati Bengals,CIN,7,Head Coach,Marvin Lewis,1,17,,No
+2016,Cincinnati Bengals,CIN,7,Offensive Coordinator,Ken Zampese,1,17,,
+2017,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,17,,No
+2017,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Todd Haley,1,17,,
+2017,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,17,,No
+2017,Baltimore Ravens,BAL,3,Offensive Coordinator,Marty Mornhinweg,1,17,,
+2017,Cleveland Browns,CLE,8,Head Coach,Hue Jackson,1,17,Acted as OC,Yes
+2017,Cincinnati Bengals,CIN,7,Head Coach,Marvin Lewis,1,17,,No
+2017,Cincinnati Bengals,CIN,7,Offensive Coordinator,Ken Zampese,1,2,Fired on September 15th,
+2017,Cincinnati Bengals,CIN,7,Interim Offensive Coordinator,Bill Lazor,3,17,Promoted on September 15th,
+2018,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,17,,No
+2018,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Randy Fichtner,1,17,,
+2018,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,17,,No
+2018,Baltimore Ravens,BAL,3,Offensive Coordinator,Marty Mornhinweg,1,17,,
+2018,Cleveland Browns,CLE,8,Head Coach,Hue Jackson,1,8,Fired on October 29th,No
+2018,Cleveland Browns,CLE,8,Interim Offensive Coordinator,Freddie Kitchens,9,17,Promoted on October 29th,
+2018,Cleveland Browns,CLE,8,Offensive Coordinator,Todd Haley,1,8,Fired on October 29th,
+2018,Cleveland Browns,CLE,8,Interim Head Coach,Gregg Williams,9,17,Promoted on October 29th,
+2018,Cincinnati Bengals,CIN,7,Head Coach,Marvin Lewis,1,17,,No
+2018,Cincinnati Bengals,CIN,7,Offensive Coordinator,Bill Lazor,1,17,,
+2019,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,17,,No
+2019,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Randy Fichtner,1,17,,
+2019,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,17,,No
+2019,Baltimore Ravens,BAL,3,Offensive Coordinator,Greg Roman,1,17,,
+2019,Cleveland Browns,CLE,8,Head Coach,Freddie Kitchens,1,17,,No
+2019,Cleveland Browns,CLE,8,Offensive Coordinator,Todd Monken,1,17,,
+2019,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,1,17,,No
+2019,Cincinnati Bengals,CIN,7,Offensive Coordinator,Brian Callahan,1,17,,
+2020,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,17,,No
+2020,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Randy Fichtner,1,17,,
+2020,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,17,,No
+2020,Baltimore Ravens,BAL,3,Offensive Coordinator,Greg Roman,1,17,,
+2020,Cleveland Browns,CLE,8,Head Coach,Kevin Stefanski,1,17,,No
+2020,Cleveland Browns,CLE,8,Offensive Coordinator,Alex Van Pelt,1,17,,
+2020,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,1,17,,No
+2020,Cincinnati Bengals,CIN,7,Offensive Coordinator,Brian Callahan,1,17,,
+2021,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,18,,No
+2021,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Matt Canada,1,18,,
+2021,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,18,,No
+2021,Baltimore Ravens,BAL,3,Offensive Coordinator,Greg Roman,1,18,,
+2021,Cleveland Browns,CLE,8,Head Coach,Kevin Stefanski,1,18,,No
+2021,Cleveland Browns,CLE,8,Offensive Coordinator,Alex Van Pelt,1,18,,
+2021,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,1,18,,No
+2021,Cincinnati Bengals,CIN,7,Offensive Coordinator,Brian Callahan,1,18,,
+2022,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,18,,No
+2022,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Matt Canada,1,18,,
+2022,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,18,,No
+2022,Baltimore Ravens,BAL,3,Offensive Coordinator,Greg Roman,1,18,,
+2022,Cleveland Browns,CLE,8,Head Coach,Kevin Stefanski,1,18,,No
+2022,Cleveland Browns,CLE,8,Offensive Coordinator,Alex Van Pelt,1,18,,
+2022,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,1,18,,No
+2022,Cincinnati Bengals,CIN,7,Offensive Coordinator,Brian Callahan,1,18,,
+2023,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,18,,No
+2023,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Matt Canada,1,11,Fired on November 20th,
+2023,Pittsburgh Steelers,PIT,27,Interim Offensive Coordinator,Eddie Faulkner,12,18,Promoted on November 20th,
+2023,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,18,,No
+2023,Baltimore Ravens,BAL,3,Offensive Coordinator,Todd Monken,1,18,,
+2023,Cleveland Browns,CLE,8,Head Coach,Kevin Stefanski,1,18,,No
+2023,Cleveland Browns,CLE,8,Offensive Coordinator,Alex Van Pelt,1,18,,
+2023,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,1,18,,No
+2023,Cincinnati Bengals,CIN,7,Offensive Coordinator,Brian Callahan,1,18,,
+2024,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,1,18,,No
+2024,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Arthur Smith,1,18,,
+2024,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,1,18,,No
+2024,Baltimore Ravens,BAL,3,Offensive Coordinator,Todd Monken,1,18,,
+2024,Cleveland Browns,CLE,8,Head Coach,Kevin Stefanski,1,18,,No
+2024,Cleveland Browns,CLE,8,Offensive Coordinator,Ken Dorsey,1,18,,
+2024,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,1,18,,No
+2024,Cincinnati Bengals,CIN,7,Offensive Coordinator,Dan Pitcher,1,18,,
+2025,Pittsburgh Steelers,PIT,27,Head Coach,Mike Tomlin,null,null,,No
+2025,Pittsburgh Steelers,PIT,27,Offensive Coordinator,Arthur Smith,null,null,,
+2025,Baltimore Ravens,BAL,3,Head Coach,John Harbaugh,null,null,,No
+2025,Baltimore Ravens,BAL,3,Offensive Coordinator,Todd Monken,null,null,,
+2025,Cleveland Browns,CLE,8,Head Coach,Kevin Stefanski,null,null,,No
+2025,Cleveland Browns,CLE,8,Offensive Coordinator,Tommy Rees,null,null,,
+2025,Cincinnati Bengals,CIN,7,Head Coach,Zac Taylor,null,null,,No
+2025,Cincinnati Bengals,CIN,7,Offensive Coordinator,Dan Pitcher,null,null,,
+2015,Indianapolis Colts,IND,14,Head Coach,Chuck Pagano,1,17,,No
+2015,Indianapolis Colts,IND,14,Offensive Coordinator,Rob Chudzinski,1,17,,
+2016,Indianapolis Colts,IND,14,Head Coach,Chuck Pagano,1,17,,No
+2016,Indianapolis Colts,IND,14,Offensive Coordinator,Rob Chudzinski,1,17,,
+2017,Indianapolis Colts,IND,14,Head Coach,Chuck Pagano,1,17,,No
+2017,Indianapolis Colts,IND,14,Offensive Coordinator,Rob Chudzinski,1,17,,
+2018,Indianapolis Colts,IND,14,Head Coach,Frank Reich,1,17,,No
+2018,Indianapolis Colts,IND,14,Offensive Coordinator,Nick Sirianni,1,17,,
+2019,Indianapolis Colts,IND,14,Head Coach,Frank Reich,1,17,,No
+2019,Indianapolis Colts,IND,14,Offensive Coordinator,Nick Sirianni,1,17,,
+2020,Indianapolis Colts,IND,14,Head Coach,Frank Reich,1,17,,No
+2020,Indianapolis Colts,IND,14,Offensive Coordinator,Nick Sirianni,1,17,,
+2021,Indianapolis Colts,IND,14,Head Coach,Frank Reich,1,18,,No
+2021,Indianapolis Colts,IND,14,Offensive Coordinator,Marcus Brady,1,18,,
+2022,Indianapolis Colts,IND,14,Interim Head Coach,Jeff Saturday,10,18,Hired on November 8th,
+2022,Indianapolis Colts,IND,14,Head Coach,Frank Reich,1,9,Fired on November 7th,No
+2022,Indianapolis Colts,IND,14,Interim Offensive Coordinator,Frank Reich,9,9,,
+2022,Indianapolis Colts,IND,14,Offensive Coordinator,Marcus Brady,1,8,Fired on November 1st,
+2022,Indianapolis Colts,IND,14,Interim Offensive Coordinator,Parks Frazier,10,18,Promoted on November 8th,
+2023,Indianapolis Colts,IND,14,Head Coach,Shane Steichen,1,18,,No
+2023,Indianapolis Colts,IND,14,Offensive Coordinator,Jim Bob Cooter,1,18,,
+2024,Indianapolis Colts,IND,14,Head Coach,Shane Steichen,1,18,,No
+2024,Indianapolis Colts,IND,14,Offensive Coordinator,Jim Bob Cooter,1,18,,
+2015,Houston Texans,HOU,13,Head Coach,Bill O'Brien,1,17,,No
+2015,Houston Texans,HOU,13,Offensive Coordinator,George Godsey,1,17,,
+2016,Houston Texans,HOU,13,Head Coach,Bill O'Brien,1,17,,No
+2016,Houston Texans,HOU,13,Offensive Coordinator,George Godsey,1,17,,
+2017,Houston Texans,HOU,13,Head Coach,Bill O'Brien,1,17,Acted as OC,Yes
+2018,Houston Texans,HOU,13,Head Coach,Bill O'Brien,1,17,Acted as OC,Yes
+2019,Houston Texans,HOU,13,Head Coach,Bill O'Brien,1,17,,No
+2019,Houston Texans,HOU,13,Offensive Coordinator,Tim Kelly,1,17,,
+2020,Houston Texans,HOU,13,Head Coach,Bill O'Brien,1,17,,No
+2020,Houston Texans,HOU,13,Offensive Coordinator,Tim Kelly,1,17,,
+2021,Houston Texans,HOU,13,Head Coach,David Culley,1,18,,No
+2021,Houston Texans,HOU,13,Offensive Coordinator,Tim Kelly,1,18,,
+2022,Houston Texans,HOU,13,Head Coach,Lovie Smith,1,18,,No
+2022,Houston Texans,HOU,13,Offensive Coordinator,Pep Hamilton,1,18,,
+2023,Houston Texans,HOU,13,Head Coach,DeMeco Ryans,1,18,,No
+2023,Houston Texans,HOU,13,Offensive Coordinator,Bobby Slowik,1,18,,
+2024,Houston Texans,HOU,13,Head Coach,DeMeco Ryans,1,18,,No
+2024,Houston Texans,HOU,13,Offensive Coordinator,Bobby Slowik,1,18,,
+2015,Jacksonville Jaguars,JAX,15,Head Coach,Gus Bradley,1,17,,No
+2015,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Greg Olson,1,17,,
+2016,Jacksonville Jaguars,JAX,15,Head Coach,Gus Bradley,1,15,Fired on December 18th,No
+2016,Jacksonville Jaguars,JAX,15,Interim Head Coach,Doug Marrone,16,17,Promoted on December 18th,
+2016,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Greg Olson,1,8,Fired on October 28th,
+2016,Jacksonville Jaguars,JAX,15,Interim Offensive Coordinator,Nathaniel Hackett,9,17,Promoted on October 28th,
+2017,Jacksonville Jaguars,JAX,15,Head Coach,Doug Marrone,1,17,,No
+2017,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Nathaniel Hackett,1,17,,
+2018,Jacksonville Jaguars,JAX,15,Head Coach,Doug Marrone,1,17,,No
+2018,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Nathaniel Hackett,1,12,Fired on Novemember 26th,
+2018,Jacksonville Jaguars,JAX,15,Interim Offensive Coordinator,Scott Milanovich,13,17,Promoted on November 26th,
+2019,Jacksonville Jaguars,JAX,15,Head Coach,Doug Marrone,1,17,,No
+2019,Jacksonville Jaguars,JAX,15,Offensive Coordinator,John DeFilippo,1,17,,
+2020,Jacksonville Jaguars,JAX,15,Head Coach,Doug Marrone,1,17,,No
+2020,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Jay Gruden,1,17,,
+2021,Jacksonville Jaguars,JAX,15,Head Coach,Urban Meyer,1,14,Fired on December 16th,No
+2021,Jacksonville Jaguars,JAX,15,Interim Head Coach,Darrell Bevell,15,18,Promoted on December 16th,
+2021,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Darrell Bevell,1,15,Relinquished playcalling duties on December 20th,
+2021,Jacksonville Jaguars,JAX,15,Interim Offensive Coordinator,Brian Schottenheimer,16,18,Promoted on December 20th,
+2022,Jacksonville Jaguars,JAX,15,Head Coach,Doug Pederson,1,18,,No
+2022,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Press Taylor,1,18,,
+2023,Jacksonville Jaguars,JAX,15,Head Coach,Doug Pederson,1,18,,No
+2023,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Press Taylor,1,18,,
+2024,Jacksonville Jaguars,JAX,15,Head Coach,Doug Pederson,1,18,,No
+2024,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Press Taylor,1,18,,
+2015,Tennessee Titans,TEN,31,Head Coach,Ken Whisenhunt,1,8,Fired on November 3rd,No
+2015,Tennessee Titans,TEN,31,Interim Head Coach,Mike Mularkey,9,17,Promoted on November 3rd,
+2015,Tennessee Titans,TEN,31,Offensive Coordinator,Jason Michael,1,17,,
+2016,Tennessee Titans,TEN,31,Head Coach,Mike Mularkey,1,17,,No
+2016,Tennessee Titans,TEN,31,Offensive Coordinator,Terry Robiskie,1,17,,
+2017,Tennessee Titans,TEN,31,Head Coach,Mike Mularkey,1,17,,No
+2017,Tennessee Titans,TEN,31,Offensive Coordinator,Terry Robiskie,1,17,,
+2018,Tennessee Titans,TEN,31,Head Coach,Mike Vrabel,1,17,,No
+2018,Tennessee Titans,TEN,31,Offensive Coordinator,Matt LaFleur,1,17,,
+2019,Tennessee Titans,TEN,31,Head Coach,Mike Vrabel,1,17,,No
+2019,Tennessee Titans,TEN,31,Offensive Coordinator,Arthur Smith,1,17,,
+2020,Tennessee Titans,TEN,31,Head Coach,Mike Vrabel,1,17,,No
+2020,Tennessee Titans,TEN,31,Offensive Coordinator,Arthur Smith,1,17,,
+2021,Tennessee Titans,TEN,31,Head Coach,Mike Vrabel,1,18,,No
+2021,Tennessee Titans,TEN,31,Offensive Coordinator,Todd Downing,1,18,,
+2022,Tennessee Titans,TEN,31,Head Coach,Mike Vrabel,1,18,,No
+2022,Tennessee Titans,TEN,31,Offensive Coordinator,Todd Downing,1,18,,
+2023,Tennessee Titans,TEN,31,Head Coach,Mike Vrabel,1,18,,No
+2023,Tennessee Titans,TEN,31,Offensive Coordinator,Tim Kelly,1,18,,
+2024,Tennessee Titans,TEN,31,Head Coach,Brian Callahan,1,18,,No
+2024,Tennessee Titans,TEN,31,Offensive Coordinator,Nick Holz,1,18,,
+2025,Indianapolis Colts,IND,14,Head Coach,Shane Steichen,null,null,,No
+2025,Indianapolis Colts,IND,14,Offensive Coordinator,Jim Bob Cooter,null,null,,
+2025,Houston Texans,HOU,13,Head Coach,DeMeco Ryans,null,null,,No
+2025,Houston Texans,HOU,13,Offensive Coordinator,Nick Caley,null,null,,
+2025,Jacksonville Jaguars,JAX,15,Head Coach,Liam Coen,null,null,,No
+2025,Jacksonville Jaguars,JAX,15,Offensive Coordinator,Grant Udinski,null,null,,
+2025,Tennessee Titans,TEN,31,Head Coach,Brian Callahan,null,null,,No
+2025,Tennessee Titans,TEN,31,Offensive Coordinator,Nick Holz,null,null,,
+2015,San Diego Chargers,LAC,17,Head Coach,Mike McCoy,1,17,,No
+2015,San Diego Chargers,LAC,17,Offensive Coordinator,Frank Reich,1,17,,
+2016,San Diego Chargers,LAC,17,Head Coach,Mike McCoy,1,17,,No
+2016,San Diego Chargers,LAC,17,Offensive Coordinator,Ken Whisenhunt,1,17,,
+2017,San Diego Chargers,LAC,17,Head Coach,Anthony Lynn,1,17,,No
+2017,San Diego Chargers,LAC,17,Offensive Coordinator,Ken Whisenhunt,1,17,,
+2015,Oakland Raiders,LV,19,Head Coach,Jack Del Rio,1,17,,No
+2015,Oakland Raiders,LV,19,Offensive Coordinator,Bill Musgrave,1,17,,
+2016,Oakland Raiders,LV,19,Head Coach,Jack Del Rio,1,17,,No
+2016,Oakland Raiders,LV,19,Offensive Coordinator,Bill Musgrave,1,17,,
+2017,Oakland Raiders,LV,19,Head Coach,Jack Del Rio,1,17,,No
+2017,Oakland Raiders,LV,19,Offensive Coordinator,Todd Downing,1,17,,
+2015,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,17,,No
+2015,Kansas City Chiefs,KC,16,Offensive Coordinator,Doug Pederson,1,17,,
+2016,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,17,,No
+2016,Kansas City Chiefs,KC,16,Offensive Coordinator,Brad Childress,1,17,,
+2016,Kansas City Chiefs,KC,16,Offensive Coordinator,Matt Nagy,1,17,,
+2017,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,17,,No
+2017,Kansas City Chiefs,KC,16,Offensive Coordinator,Matt Nagy,1,17,,
+2015,Denver Broncos,DEN,10,Head Coach,Gary Kubiak,1,17,,No
+2015,Denver Broncos,DEN,10,Offensive Coordinator,Rick Dennison,1,17,,
+2016,Denver Broncos,DEN,10,Head Coach,Gary Kubiak,1,17,,No
+2016,Denver Broncos,DEN,10,Offensive Coordinator,Rick Dennison,1,17,,
+2017,Denver Broncos,DEN,10,Head Coach,Vance Joseph,1,17,,No
+2017,Denver Broncos,DEN,10,Interim Offensive Coordinator,Bill Musgrave,12,17,Promoted on November 20th,
+2017,Denver Broncos,DEN,10,Offensive Coordinator,Mike McCoy,1,11,Fired on November 20th,
+2018,Los Angeles Chargers,LAC,17,Head Coach,Anthony Lynn,1,17,,No
+2018,Los Angeles Chargers,LAC,17,Offensive Coordinator,Ken Whisenhunt,1,17,,
+2019,Los Angeles Chargers,LAC,17,Head Coach,Anthony Lynn,1,17,,No
+2019,Los Angeles Chargers,LAC,17,Offensive Coordinator,Ken Whisenhunt,1,8,Fired on October 28th,
+2019,Los Angeles Chargers,LAC,17,Interim Offensive Coordinator,Shane Steichen,9,17,Promoted on October 28th,
+2018,Oakland Raiders,LV,19,Head Coach,Jon Gruden,1,17,,No
+2018,Oakland Raiders,LV,19,Offensive Coordinator,Greg Olson,1,17,,
+2019,Oakland Raiders,LV,19,Head Coach,Jon Gruden,1,17,,No
+2019,Oakland Raiders,LV,19,Offensive Coordinator,Greg Olson,1,17,,
+2018,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,17,,No
+2018,Kansas City Chiefs,KC,16,Offensive Coordinator,Eric Bieniemy,1,17,,
+2019,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,17,,No
+2019,Kansas City Chiefs,KC,16,Offensive Coordinator,Eric Bieniemy,1,17,,
+2018,Denver Broncos,DEN,10,Head Coach,Vance Joseph,1,17,,No
+2018,Denver Broncos,DEN,10,Offensive Coordinator,Bill Musgrave,1,17,,
+2019,Denver Broncos,DEN,10,Head Coach,Vic Fangio,1,17,,No
+2019,Denver Broncos,DEN,10,Offensive Coordinator,Rich Scangarello,1,17,,
+2020,Los Angeles Chargers,LAC,17,Head Coach,Anthony Lynn,1,17,,No
+2020,Los Angeles Chargers,LAC,17,Offensive Coordinator,Shane Steichen,1,17,,
+2021,Los Angeles Chargers,LAC,17,Head Coach,Brandon Staley,1,18,,No
+2021,Los Angeles Chargers,LAC,17,Offensive Coordinator,Joe Lombardi,1,18,,
+2022,Los Angeles Chargers,LAC,17,Head Coach,Brandon Staley,1,18,,No
+2022,Los Angeles Chargers,LAC,17,Offensive Coordinator,Joe Lombardi,1,18,,
+2023,Los Angeles Chargers,LAC,17,Head Coach,Brandon Staley,1,15,Fired on December 15th,No
+2023,Los Angeles Chargers,LAC,17,Interim Head Coach,Giff Smith,16,18,Promoted on December 15th,
+2023,Los Angeles Chargers,LAC,17,Offensive Coordinator,Kellen Moore,1,18,,
+2024,Los Angeles Chargers,LAC,17,Head Coach,Jim Harbaugh,1,18,,No
+2024,Los Angeles Chargers,LAC,17,Offensive Coordinator,Greg Roman,1,18,,
+2020,Las Vegas Raiders,LV,19,Head Coach,Jon Gruden,1,17,,No
+2020,Las Vegas Raiders,LV,19,Offensive Coordinator,Greg Olson,1,17,,
+2021,Las Vegas Raiders,LV,19,Head Coach,Jon Gruden,1,5,Resigned on October 11th,No
+2021,Las Vegas Raiders,LV,19,Interim Head Coach,Rich Bisaccia,6,18,Promoted on October 11th,
+2021,Las Vegas Raiders,LV,19,Offensive Coordinator,Greg Olson,1,18,,
+2022,Las Vegas Raiders,LV,19,Head Coach,Josh McDaniels,1,18,,No
+2022,Las Vegas Raiders,LV,19,Offensive Coordinator,Mick Lombardi,1,18,,
+2023,Las Vegas Raiders,LV,19,Head Coach,Josh McDaniels,1,8,Fired on October 31st,No
+2023,Las Vegas Raiders,LV,19,Interim Head Coach,Antonio Pierce,9,18,Promoted on October 31st,
+2023,Las Vegas Raiders,LV,19,Offensive Coordinator,Mick Lombardi,1,8,Fired on October 31st,
+2023,Las Vegas Raiders,LV,19,Interim Offensive Coordinator,Bo Hardegree,9,18,Promoted on October 31st,
+2024,Las Vegas Raiders,LV,19,Head Coach,Antonio Pierce,1,18,,No
+2024,Las Vegas Raiders,LV,19,Offensive Coordinator,Luke Getsy,1,9,Fired on November 5th,
+2024,Las Vegas Raiders,LV,19,Interim Offensive Coordinator,Scott Turner,10,18,Promoted on November 5th,
+2020,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,17,,No
+2020,Kansas City Chiefs,KC,16,Offensive Coordinator,Eric Bieniemy,1,17,,
+2021,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,18,,No
+2021,Kansas City Chiefs,KC,16,Offensive Coordinator,Eric Bieniemy,1,18,,
+2022,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,18,,No
+2022,Kansas City Chiefs,KC,16,Offensive Coordinator,Eric Bieniemy,1,18,,
+2023,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,18,,No
+2023,Kansas City Chiefs,KC,16,Offensive Coordinator,Matt Nagy,1,18,,
+2024,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,1,18,,No
+2024,Kansas City Chiefs,KC,16,Offensive Coordinator,Matt Nagy,1,18,,
+2020,Denver Broncos,DEN,10,Head Coach,Vic Fangio,1,17,,No
+2020,Denver Broncos,DEN,10,Offensive Coordinator,Pat Shurmur,1,17,,
+2021,Denver Broncos,DEN,10,Head Coach,Vic Fangio,1,18,,No
+2021,Denver Broncos,DEN,10,Offensive Coordinator,Pat Shurmur,1,18,,
+2022,Denver Broncos,DEN,10,Head Coach,Nathaniel Hackett,1,16,Fired on December 26th,No
+2022,Denver Broncos,DEN,10,Interim Head Coach,Jerry Rosburg,17,18,Promoted on December 26th,
+2022,Denver Broncos,DEN,10,Offensive Coordinator,Justin Outten,1,18,,
+2023,Denver Broncos,DEN,10,Head Coach,Sean Payton,1,18,,No
+2023,Denver Broncos,DEN,10,Offensive Coordinator,Joe Lombardi,1,18,,
+2024,Denver Broncos,DEN,10,Head Coach,Sean Payton,1,18,,No
+2024,Denver Broncos,DEN,10,Offensive Coordinator,Joe Lombardi,1,18,,
+2025,Los Angeles Chargers,LAC,17,Head Coach,Jim Harbaugh,null,null,,No
+2025,Los Angeles Chargers,LAC,17,Offensive Coordinator,Greg Roman,null,null,,
+2025,Las Vegas Raiders,LV,19,Head Coach,Pete Carroll,null,null,,No
+2025,Las Vegas Raiders,LV,19,Offensive Coordinator,Chip Kelly,null,null,,
+2025,Kansas City Chiefs,KC,16,Head Coach,Andy Reid,null,null,,No
+2025,Kansas City Chiefs,KC,16,Offensive Coordinator,Matt Nagy,null,null,,
+2025,Denver Broncos,DEN,10,Head Coach,Sean Payton,null,null,,No
+2025,Denver Broncos,DEN,10,Offensive Coordinator,Joe Lombardi,null,null,,
